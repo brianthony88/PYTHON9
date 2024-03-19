@@ -1,0 +1,182 @@
+[
+    {
+        "name": "bulbasaur",
+        "ability": "overgrow",
+        "base_experience": 64,
+        "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/1.png",
+        "attack": 49,
+        "hp": 45,
+        "defense": 49
+    },
+    {
+        "name": "charmander",
+        "ability": "blaze",
+        "base_experience": 62,
+        "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/4.png",
+        "attack": 52,
+        "hp": 39,
+        "defense": 43
+    },
+    {
+        "name": "squirtle",
+        "ability": "torrent",
+        "base_experience": 63,
+        "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/7.png",
+        "attack": 48,
+        "hp": 44,
+        "defense": 65
+    },
+    {
+        "name": "pikachu",
+        "ability": "static",
+        "base_experience": 112,
+        "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/25.png",
+        "attack": 55,
+        "hp": 35,
+        "defense": 40
+    },
+    {
+        "name": "jigglypuff",
+        "ability": "cute-charm",
+        "base_experience": 95,
+        "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/39.png",
+        "attack": 45,
+        "hp": 115,
+        "defense": 20
+    },
+    {
+        "name": "geodude",
+        "ability": "rock-head",
+        "base_experience": 60,
+        "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/74.png",
+        "attack": 80,
+        "hp": 40,
+        "defense": 100
+    },
+    {
+        "name": "eevee",
+        "ability": "run-away",
+        "base_experience": 65,
+        "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/133.png",
+        "attack": 55,
+        "hp": 55,
+        "defense": 50
+    },
+    {
+        "name": "snorlax",
+        "ability": "immunity",
+        "base_experience": 189,
+        "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/143.png",
+        "attack": 110,
+        "hp": 160,
+        "defense": 65
+    },
+    {
+        "name": "magikarp",
+        "ability": "swift-swim",
+        "base_experience": 40,
+        "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/129.png",
+        "attack": 10,
+        "hp": 20,
+        "defense": 55
+    },
+    {
+        "name": "ditto",
+        "ability": "limber",
+        "base_experience": 101,
+        "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/132.png",
+        "attack": 48,
+        "hp": 48,
+        "defense": 48
+    },
+    {
+        "name": "cyndaquil",
+        "ability": "blaze",
+        "base_experience": 62,
+        "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/155.png",
+        "attack": 52,
+        "hp": 39,
+        "defense": 43
+    },
+    {
+        "name": "totodile",
+        "ability": "torrent",
+        "base_experience": 63,
+        "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/158.png",
+        "attack": 65,
+        "hp": 50,
+        "defense": 64
+    },
+    {
+        "name": "chikorita",
+        "ability": "overgrow",
+        "base_experience": 64,
+        "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/152.png",
+        "attack": 49,
+        "hp": 45,
+        "defense": 65
+    },
+    {
+        "name": "mareep",
+        "ability": "static",
+        "base_experience": 56,
+        "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/179.png",
+        "attack": 40,
+        "hp": 55,
+        "defense": 40
+    },
+    {
+        "name": "togepi",
+        "ability": "hustle",
+        "base_experience": 49,
+        "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/175.png",
+        "attack": 20,
+        "hp": 35,
+        "defense": 65
+    },
+    {
+        "name": "mudkip",
+        "ability": "torrent",
+        "base_experience": 62,
+        "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/258.png",
+        "attack": 70,
+        "hp": 50,
+        "defense": 50
+    },
+    {
+        "name": "torchic",
+        "ability": "blaze",
+        "base_experience": 62,
+        "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/255.png",
+        "attack": 60,
+        "hp": 45,
+        "defense": 40
+    },
+    {
+        "name": "treecko",
+        "ability": "overgrow",
+        "base_experience": 62,
+        "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/252.png",
+        "attack": 45,
+        "hp": 40,
+        "defense": 35
+    },
+    {
+        "name": "ralts",
+        "ability": "synchronize",
+        "base_experience": 40,
+        "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/280.png",
+        "attack": 25,
+        "hp": 28,
+        "defense": 25
+    },
+    {
+        "name": "mawile",
+        "ability": "hyper-cutter",
+        "base_experience": 133,
+        "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/303.png",
+        "attack": 85,
+        "hp": 50,
+        "defense": 85
+    }
+]
